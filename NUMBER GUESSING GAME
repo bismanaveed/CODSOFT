@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	srand (time(0));
 	int a,n = rand() % 100 + 1; 
-		cout<<"choose any number between 0 to 100 "<<endl;
+		cout<<"choose any number between 1 to 100 "<<endl;
 
 		 while (true) {
         cout << "Guess the number (between 1 and 100): ";
